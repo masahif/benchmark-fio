@@ -1,0 +1,7 @@
+[seqwrite]
+readwrite=write
+blocksize=1m
+size=1g
+directory=tmp_fio_benchmark/
+direct=1
+loops=5

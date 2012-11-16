@@ -1,0 +1,7 @@
+[randread512k]
+readwrite=randread
+blocksize=512k
+size=1g
+directory=tmp_fio_benchmark/
+direct=1
+loops=5

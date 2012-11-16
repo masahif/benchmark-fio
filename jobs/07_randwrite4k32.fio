@@ -1,0 +1,8 @@
+[randwrite4k32]
+readwrite=randwrite
+blocksize=4k
+size=10m
+directory=tmp_fio_benchmark/
+direct=1
+numjobs=32
+loops=3
